@@ -1,14 +1,9 @@
 package net.lamthun.marsrover;
 
 public class Plat {
-	/*
-	 * ¿í¶È
-	 */
+	
 	private int width;
 	
-	/*
-	 * ³¤¶È
-	 */
 	private int length;
 	
 	public Plat(int width, int length) {
