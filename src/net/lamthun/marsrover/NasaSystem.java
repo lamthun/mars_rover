@@ -1,5 +1,8 @@
 package net.lamthun.marsrover;
 
+/*
+ * nasa的系统管理对象
+ */
 public class NasaSystem {
     private static final NasaSystem instance = new NasaSystem();
 
